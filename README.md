@@ -1,4 +1,4 @@
-# DIVs and SPANs
+cd # DIVs and SPANs
 ---
 _The purpose of this repository is to help you practice using_ `<div>` _and_ `<span>` _elements in their proper syntax._
 
